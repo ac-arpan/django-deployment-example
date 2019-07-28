@@ -25,7 +25,7 @@ SECRET_KEY = 'p5%86qot2#gk$k0$e3u4)$9t$2kzk95qpcj07x@#h-wzyav0ld'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["acarpan.pythonanywhere.com"]
 
 
 # Application definition
